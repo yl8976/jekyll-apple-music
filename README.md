@@ -2,6 +2,9 @@
 
 Helps you embed stuff from Apple Music into your Jekyll websites.
 
+## Warning!
+Note! This is currently a *work in progress*. The plugin is not functional as of yet.
+
 ## Setup
 
 1. Add ```apple-music.rb``` to your ```plugin``` folder.
